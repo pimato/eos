@@ -107,7 +107,7 @@ you have direct control over the resoruce allocation of other accounts and acces
 api calls. In a public blockchain, this contract would manage the staking and unstaking of tokens to
 reserve bandwidth for cpu and network activity and memory for contracts. 
 
-The eosio.bios contract can be found in the contracts folder of yoru eosio source code. This command assumes
+The eosio.bios contract can be found in the contracts folder of your eosio source code. This command assumes
 it is being executed from the root of the eosio source, but you could execute it from anywhere by specifying 
 the full path to ${EOSIO_SOURCE}/contracts/eosio.bios.
 
